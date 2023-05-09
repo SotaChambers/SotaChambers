@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={SotaChambers}
 )](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SotaChambers/SotaChambers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
